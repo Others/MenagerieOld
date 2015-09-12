@@ -1,0 +1,27 @@
+The specific target for this software is scheduling.
+But the library's generality should make it useful for other purposes.
+
+Representation notes:
+
+Target estimates:
+	<256 classes
+	<512 students
+	<128 teachers
+	~7 blocks
+	~2 semesters
+
+Two aspects of the problem:
+	When(block/semester) are the classes(where)
+	Who(students/teachers) is where when
+
+Approach one:
+	b*s*c bytes per person
+		where b is blocks
+		where s is semesters
+		where c is ceil(log2(#classes)) (possibly could be optimized)
+	align the bytes in order, representing people as indexes
+	possible schedules: 2^(71680) (65536 binary digits, 19729 decimal digits)
+
+Aproach two:
+	1 byte per class
+	aligning the bytes in order, representing the blocks they are in

@@ -1,0 +1,6 @@
+Ideas I've come up with:
+	Auto-balancing rotation
+	Auto-balancing rotation with cross pollination
+	Feed forward rotation
+
+Need to do some research in the literature for this

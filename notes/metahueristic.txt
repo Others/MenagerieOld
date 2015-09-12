@@ -1,0 +1,82 @@
+Candidate methods so far:
+	Naive algorithms
+		Exhaustive search
+		Randomized search`
+	Greedy algorithms
+		Greedy randomized adaptive search procedure
+	Dynamic algorithms
+		Golden section search
+	Local search algorithms
+		Hill climbing algorithm
+		Stochastic hill climbing algorithm
+		Guided local search
+		Simulated annealing algorithm
+		Cross-entropy method
+		Tabu search
+		Stochastic tunneling
+		Two phase method
+		Scatter search
+		Estimation of distribution algorithms
+		Variable local search
+	Gradient methods
+		Gradient decent
+		Conjugate gradient method
+		Nonlinear conjugate gradient method
+		Biconjugate gradient method
+		Biconjugate gradient stabilized method
+	Convex programming relaxation
+		Linear programming relaxation
+		Semidefinite programming relaxation
+	Evolutionary algorithms
+		Genetic algorithm
+		Genetic programming
+		Evelotionary programming
+		Differential evolution
+		Evolution strategies
+	Swarm algorithms
+		Ant colony optimization
+		Artificial bee colony algorithm
+		Bees algorithm
+		Cuckoo search
+		Particle swarm optimization
+		Ant-lion optimizer
+		Bacteria colony optimizer
+		Differential evolution
+		Clonal selection algorithm
+		Grey wolf optimizer
+		Bat algorithm
+		Mult-verse optimizer
+		Gravitational search algorithm
+		Altruism algorithm
+		Glowworm swarm optimization
+		Intelligent Water Drops
+		Self-propelled particles
+		Multi-swarm optimization
+		Firefly algorithm
+		Harmony search
+		Gaussian adaption
+		Parallel tempering
+	Memetic algorithms
+
+Likely algorithms:
+	Hill climbing algorithm
+	Stochastic hill climbing algorithm
+	Genetic optimization
+	Tabu search
+	Cuckoo search
+	Memetic algorithm
+	Particle Swarm optimization
+	Simulated annealing algorithm
+	Evolution strategies
+	Harmony search
+	Firefly algorithm
+	Golden section search
+	Parallel tempering
+	Ant colony optimization
+	Greedy randomized adaptive search procedure
+	Bacteria colony optimizer
+	Gaussian adaption
+	Gravitational search algorithm
+	Artificial bee colony algorithm
+	Differential evolution
+	Semidefinite programming relaxation

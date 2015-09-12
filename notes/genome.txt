@@ -1,0 +1,5 @@
+A genome is defined as a sequence of genes
+Each gene should generally represent one component of a solution
+
+A genome specification defines a set of genomes
+For each gene, the specification defines the number of states it has

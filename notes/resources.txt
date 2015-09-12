@@ -1,0 +1,5 @@
+http://www.designofapproxalgs.com/book.pdf
+	Graduate level text book in approximization algorithms
+
+http://kursinfo.himolde.no/forskningsgrupper/optimering/phdkurs/Metaheuristics%20in%20Combinatorial%20Optimization.pdf
+	Paper surveying the field of metaheuristics
